@@ -122,15 +122,6 @@ This project is licensed under the MIT License.
 - LinkedIn:	linkedin.com/in/fahadaslam-dev	
 
 
----
 
-# ⭐ Show Your Support
-
-If you found this project useful, please leave a ⭐ on GitHub.
-
-It helps others discover the project and motivates future development.
-└── README.md                # Project documentation
-
-├── tsconfig.json
 ├── vite.config.ts
 └── README.md
