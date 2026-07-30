@@ -107,19 +107,17 @@
 ├── package.json             # Node dependencies and scripts
 ├── tsconfig.json            # TypeScript engine rules
 ├── vite.config.ts           # Vite build pipeline setup
-
-# 📄 License
+---
+## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Fahad Aslam**
 
-- GitHub: https://github.com/fahadaslam18321-alt/
-- LinkedIn:	linkedin.com/in/fahadaslam-dev	
 
 
 
